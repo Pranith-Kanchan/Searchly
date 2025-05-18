@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1058779015439",
+    "project_id": "searchly-app",
+    "storage_bucket": "searchly-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058779015439:android:7c82deb17aa9b7d048f67a",
+        "android_client_info": {
+          "package_name": "com.searchly"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzDDnfJh46YPsrpTV0pkHRbRUwHqD_QYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
